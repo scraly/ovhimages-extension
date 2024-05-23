@@ -1,0 +1,10 @@
+{
+  "icon": "ovhcloud.svg",
+  "ui": {
+    "dashboard-tab": {
+      "title": "OVHcloud Images",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}
