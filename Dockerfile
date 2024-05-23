@@ -19,11 +19,10 @@ LABEL org.opencontainers.image.title="OVHcloud images" \
     com.docker.extension.screenshots="[ \
     {\"alt\": \"OVHcloud images\", \"url\": \"https://raw.githubusercontent.com/scraly/ovhimages-extension/main/assets/ovhimages-extension.png\"} \
     ]" \
-    com.docker.extension.screenshots="" \
     com.docker.extension.detailed-description="This extension allows you to list and pull images created and maintaned by OVHcloud from Docker Hub and OVHcloud Managed Private Registries." \
     com.docker.extension.publisher-url="http://scraly.com/" \
     com.docker.extension.additional-urls="" \
-    om.docker.extension.changelog="<ul>\
+    com.docker.extension.changelog="<ul>\
     <li>First version.</li> \
     </ul>" \
     com.docker.desktop.extension.icon="https://raw.githubusercontent.com/scraly/ovhimages-extension/main/ovhcloud.svg" \
