@@ -1,10 +1,22 @@
-# OVHcloud Images
+# OVHcloud Images Docker extension
 
 In this repository you can find the OVHcloud images Docker extension.
 
 This extension is composed of:
 
 - A [frontend](./ui) app in React that display a list of OCI images created and maintaned by OVHcloud. Through this app users can pull images directly on their machine through Docker Desktop.
+
+![OVHcloud Images Docker Extension](assets/ovhimages-extension.png)
+
+## Docker MarketPlace
+
+[![Open in Docker](https://img.shields.io/badge/docker-Marketplace-blue)](https://open.docker.com/extensions/marketplace?extensionId=scraly/ovhimages-extension&tag=latest)
+
+## Install it
+
+```
+$ docker extension install scraly/ovhimages-extension
+```
 
 ## Local development
 
